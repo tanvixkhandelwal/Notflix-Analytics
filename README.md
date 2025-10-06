@@ -17,19 +17,19 @@ Data & Schema
 
 **Goal:** Identify which movies/genres to **promote, monitor, or relegate** based on completion rates, views, and ratings.
 
- Tools & Skills
+Tools & Skills
 - **SQL Server** — data modeling, joins, views, KPI calculations  
 - **Power BI** — data cleaning, DAX measures, interactive dashboards  
 - **Data Analysis** — trend analysis, user engagement, content strategy insights
 
-  Key Analysis
+Key Analysis
 - **Completion Rates**: Calculated by comparing watch duration vs. content duration  
 - **Views**: Distinct session counts per title  
 - **Ratings**: Converted textual ratings (“Awesome” → 5 … “Terrible” → 1) into numeric values  
 - **Engagement Trends**: Heatmaps by genre, platform, day & time  
 - **Content Strategy**: Action framework recommending promotion or relegation of titles
 
-  Dashboard pages
+ Dashboard pages
 1. **Title** — branding 
 2. **Executive Summary** — KPI cards, top titles, genre treemap, trend lines  
 3. **Catalogue Insights** — release year, maturity rating, monthly adds, geo map, top table  
@@ -39,7 +39,7 @@ Data & Schema
 
 *(Screenshots of the dashboard are in the `images/` folder.)*
 
- Key Features
+Key Features
 1. **Comprehensive KPI Tracking:**
 Visual summaries of total titles, completion rates, and audience ratings with drill-downs by genre, platform, and region.
 2. **Actionable Strategy Framework:**
@@ -51,10 +51,10 @@ Identification of top-performing genres and dominant platforms (Android > Web > 
 5. **Regional Viewership Mapping:**
 Geographic visualization of where the most active users are concentrated worldwide.
 
- Project Rating & Summary
-This project analyzes the content performance of a Netflix-like platform using real-world analytical methods and provides clear, actionable insights into content performance, audience engagement, and regional behavior.  With data from over 1,300 titles and 2M+ feedback records, it highlights viewer patterns, identifies underperforming titles, and supports executive-level decision-making.
-By combining SQL-based data modeling and Power BI visual storytelling, the dashboard helps business teams quickly identify which titles to promote, monitor, or relegate based on measurable engagement and satisfaction metrics.
-The analysis connects user behavior (views, completion, ratings) with content strategy decisions, offering a holistic view of what drives platform success and retention.
+Project Rating & Summary
+- This project analyzes the content performance of a Netflix-like platform using real-world analytical methods and provides clear, actionable insights into content performance, audience engagement, and regional behavior.  With data from over 1,300 titles and 2M+ feedback records, it highlights viewer patterns, identifies underperforming titles, and supports executive-level decision-making.
+- By combining SQL-based data modeling and Power BI visual storytelling, the dashboard helps business teams quickly identify which titles to promote, monitor, or relegate based on measurable engagement and satisfaction metrics.
+- The analysis connects user behavior (views, completion, ratings) with content strategy decisions, offering a holistic view of what drives platform success and retention.
 
 
 
