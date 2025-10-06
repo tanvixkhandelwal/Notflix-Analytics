@@ -56,6 +56,10 @@ Project Rating & Summary
 - By combining SQL-based data modeling and Power BI visual storytelling, the dashboard helps business teams quickly identify which titles to promote, monitor, or relegate based on measurable engagement and satisfaction metrics.
 - The analysis connects user behavior (views, completion, ratings) with content strategy decisions, offering a holistic view of what drives platform success and retention.
 
+How to Use
+1. Run SQL scripts in `/sql` to generate views.  
+2. Open the Power BI file (`.pbix`) and refresh with your data source.  
+3. Explore dashboard pages and slicers to replicate the analysis.  
 
 
 
