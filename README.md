@@ -4,16 +4,16 @@ End-to-end analytics case study on a Netflix-like platform. Built SQL models for
 The project uses SQL to model user behavior (completion rates, views, ratings) and builds a Power BI dashboard for executives to decide which titles to promote, monitor, or relegate.
 
 Project at a glance
--**Tables:** `catalogue_data` (1,363 rows, 19 cols), `consumption_data` (901,877 rows), `rating_data` (712,714 rows)
--**Total Titles:** 1,342
--**Total Hours Watched:** 68.30m
--**Avg Completion Rate:** 77.86%
--**Avg Rating:** 3.87 / 5
+- **Tables:** `catalogue_data` (1,363 rows, 19 cols), `consumption_data` (901,877 rows), `rating_data` (712,714 rows)
+- **Total Titles:** 1,342
+- **Total Hours Watched:** 68.30m
+- **Avg Completion Rate:** 77.86%
+- **Avg Rating:** 3.87 / 5
  
 Data & Schema
-**catalogue_data:** `content_id`, `date_added`, `status`, `title`, `country`, `release_year`, `rating`, `duration`, `listed_in`, ... 
-**consumption_data:** `usersessionid`, `userid`, `content_id`, `user_duration`, `content_duration`, `platform`, `consumption_date`  
-**rating_data:** `feedback_id`, `usersessionid`, `userid`, `rating` (AWESOME…TERRIBLE), `review_date`, `review_time`
+- **catalogue_data:** `content_id`, `date_added`, `status`, `title`, `country`, `release_year`, `rating`, `duration`, `listed_in`, ... 
+- **consumption_data:** `usersessionid`, `userid`, `content_id`, `user_duration`, `content_duration`, `platform`, `consumption_date`  
+- **rating_data:** `feedback_id`, `usersessionid`, `userid`, `rating` (AWESOME…TERRIBLE), `review_date`, `review_time`
 
 **Goal:** Identify which movies/genres to **promote, monitor, or relegate** based on completion rates, views, and ratings.
 
