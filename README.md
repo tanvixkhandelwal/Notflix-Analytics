@@ -40,20 +40,20 @@ Data & Schema
 *(Screenshots of the dashboard are in the `images/` folder.)*
 
  Key Features
-**Comprehensive KPI Tracking:**
+-**Comprehensive KPI Tracking:**
 Visual summaries of total titles, completion rates, and audience ratings with drill-downs by genre, platform, and region.
-**Actionable Strategy Framework:**
+-**Actionable Strategy Framework:**
 Data-driven “Promote / Monitor / Relegate” recommendations for each title based on its engagement and rating performance.
-**Engagement Analytics:**
+-**Engagement Analytics:**
 Time-based heatmaps and funnels showing viewing patterns, completion behavior, and drop-off points.
-**Genre & Platform Insights:**
+-**Genre & Platform Insights:**
 Identification of top-performing genres and dominant platforms (Android > Web > iOS).
-**Regional Viewership Mapping:**
+-**Regional Viewership Mapping:**
 Geographic visualization of where the most active users are concentrated worldwide.
 
  Project Rating & Summary
-This project analyzes a Netflix-like platform’s content performance using real-world analytical methods and provides clear, actionable insights on content performance, audience engagement, and regional behavior.  With data from over 1,300 titles and 2M+ feedback records, it highlights viewer patterns, identifies underperforming titles, and supports executive-level decision-making.
- By combining SQL-based data modeling and Power BI visual storytelling, the dashboard helps business teams quickly identify which titles to promote, monitor, or relegate based on measurable engagement and satisfaction metrics.
+-This project analyzes a Netflix-like platform’s content performance using real-world analytical methods and provides clear, actionable insights on content performance, audience engagement, and regional behavior.  With data from over 1,300 titles and 2M+ feedback records, it highlights viewer patterns, identifies underperforming titles, and supports executive-level decision-making.
+ --By combining SQL-based data modeling and Power BI visual storytelling, the dashboard helps business teams quickly identify which titles to promote, monitor, or relegate based on measurable engagement and satisfaction metrics.
 The analysis connects user behavior (views, completion, ratings) with content strategy decisions, offering a holistic view of what drives platform success and retention.
 
 
