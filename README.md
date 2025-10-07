@@ -59,7 +59,7 @@ Project Rating & Summary
 ## 📊 Dashboard Preview
 
 ### Title Page  
-![Title Page](images/Page1.%20Title%20Page.png)
+![Title Page](images/Page1.%20Title%20page.png)
 
 ### Executive Overview  
 ![Executive Overview](images/Page2.%20Executive%20Overview.png)
