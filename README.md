@@ -59,7 +59,13 @@ Project Rating & Summary
 How to Use
 1. Run SQL scripts in `/sql` to generate views.  
 2. Open the Power BI file (`.pbix`) and refresh with your data source.  
-3. Explore dashboard pages and slicers to replicate the analysis.  
+3. Explore dashboard pages and slicers to replicate the analysis.
+
+##  Contact  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tanvikhandelwal30)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:tanvikhandelwal14@gmail.com)  
+
 
 
 
