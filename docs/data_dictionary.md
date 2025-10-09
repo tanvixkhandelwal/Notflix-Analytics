@@ -1,7 +1,7 @@
 #  Data Dictionary — Notflix Analytics
 
 This document describes the key tables and fields used in the **Notflix Analytics** project.  
-The dataset is a simulated Netflix-style platform with catalogue, consumption, and ratings data.
+The dataset is a simulated Netflix-style platform with catalogue, consumption, and ratings data. 
 
 ---
 
