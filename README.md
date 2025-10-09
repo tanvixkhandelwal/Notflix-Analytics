@@ -81,7 +81,7 @@ How to Use
 ## 🚀 How to Use
 
 1. [View the Data Dictionary](docs/data_dictionary.md)
-2.  Open the SQL scripts in `/sql` and run them against the database.  
+2. [View SQL Script](sql/notflix.sql) and run them against the database.  
    - Scripts use **CTEs (Common Table Expressions)** instead of permanent views.  
    - Running them will directly produce the analysis tables required for insights.  
 
