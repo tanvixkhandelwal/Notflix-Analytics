@@ -97,9 +97,10 @@ How to Use
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tanvikhandelwal30)  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:tanvikhandelwal14@gmail.com)  
 
 
-![SQL](https://img.shields.io/badge/SQL-TSQL-blue)
-![Power BI](https://img.shields.io/badge/PowerBI-DAX-yellow)
-![Excel](https://img.shields.io/badge/Excel-Advanced-green)
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-TSQL-blue?logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-DAX-yellow?logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green?logo=microsoftexcel&logoColor=white)
 
 
 
