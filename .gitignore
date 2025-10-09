@@ -1,0 +1,22 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.tmp
+*.bak
+*.backup
+
+# Power BI backup files
+*.pbix.backup
+
+# Python cache (if you add scripts later)
+__pycache__/
+.ipynb_checkpoints/
+
+# Compressed archives
+*.zip
+*.7z
+*.tar
+*.gz
