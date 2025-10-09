@@ -77,9 +77,20 @@ Project Rating & Summary
 ![Actionable Insights](images/Page6.%20Actionable%20Insights.png)
 
 How to Use
-1. Run SQL scripts in `/sql` to generate views.  
-2. Open the Power BI file (`.pbix`) and refresh with your data source.  
-3. Explore dashboard pages and slicers to replicate the analysis.
+
+## 🚀 How to Use
+
+1. [View the Data Dictionary](docs/data_dictionary.md)
+2.  Open the SQL scripts in `/sql` and run them against the database.  
+   - Scripts use **CTEs (Common Table Expressions)** instead of permanent views.  
+   - Running them will directly produce the analysis tables required for insights.  
+
+3. Connect Power BI to the **raw tables** (`catalogue_data`, `consumption_data`, `rating_data`).  
+   - Recreate the calculated metrics (completion rate, ratings, views) in Power BI using DAX.  
+   - Use the provided screenshots and PDF (`/docs/Notflix_Dashboard.pdf`) as reference for visuals and layout.  
+
+4. Explore the dashboard pages (Executive Summary, Catalogue Insights, Engagement, Ratings, Actionable Insights) using slicers and drilldowns.
+
 
 ##  Contact  
 
