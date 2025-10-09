@@ -87,7 +87,7 @@ How to Use
 
 3. Connect Power BI to the **raw tables** (`catalogue_data`, `consumption_data`, `rating_data`).  
    - Recreate the calculated metrics (completion rate, ratings, views) in Power BI using DAX.  
-   - Use the provided screenshots and PDF (`/docs/Notflix_Dashboard.pdf`) as reference for visuals and layout.  
+   - Use the provided screenshots and [View Full Dashboard (PDF)](Notflix_Dashboard.pdf) as reference for visuals and layout.  
 
 4. Explore the dashboard pages (Executive Summary, Catalogue Insights, Engagement, Ratings, Actionable Insights) using slicers and drilldowns.
 
