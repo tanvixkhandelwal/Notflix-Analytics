@@ -97,6 +97,11 @@ How to Use
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tanvikhandelwal30)  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:tanvikhandelwal14@gmail.com)  
 
 
+![SQL](https://img.shields.io/badge/SQL-TSQL-blue)
+![Power BI](https://img.shields.io/badge/PowerBI-DAX-yellow)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green)
+
+
 
 
 
