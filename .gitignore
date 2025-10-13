@@ -11,7 +11,7 @@ Thumbs.db
 # Power BI backup files
 *.pbix.backup
 
-# Python cache (if you add scripts later)
+# Python cache 
 __pycache__/
 .ipynb_checkpoints/
 
