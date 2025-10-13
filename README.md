@@ -58,6 +58,11 @@ Project Rating & Summary
 
 ## 📊 Dashboard Preview
 
+### Entity Relationship Diagram
+The following diagram shows the relationships between the three main tables:
+
+![Entity Relationship Diagram](images/ERD.png)
+
 ### Title Page  
 ![Title Page](images/Page1.%20Title%20page.png)
 
