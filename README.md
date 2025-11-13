@@ -188,10 +188,6 @@ The following diagram shows the relationships between the three main tables:
 Follow these steps to explore the analysis and dashboards end-to-end:
 
 1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/tanvixkhandelwal/Notflix-Analytics.gitcd Notflix-Analytics
-
-   ```
 2. **Explore the SQL Analysis**
    - Navigate to the [`/sql`](sql) folder.  
    - Run `Notflix Analysis.sql` in **SQL Server Management Studio (SSMS)**.  
