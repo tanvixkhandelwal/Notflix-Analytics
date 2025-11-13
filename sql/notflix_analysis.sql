@@ -93,9 +93,9 @@ select com.content_id, com.completion_rate, rat.averagerating,rat.totalratingcou
          AND( rat.averagerating <= 3        
          OR com.completion_rate <= 50  ) 
       THEN 'Relegate'
-    WHEN ISNULL(tv.viewcount,0) < 400         -- low views (tweak threshold)
-         AND rat.averagerating >= 4        -- high rating
-         AND com.completion_rate >= 50        -- strong completion
+    WHEN ISNULL(tv.viewcount,0) < 400         
+         AND rat.averagerating >= 4       
+         AND com.completion_rate >= 50      
       THEN 'Promote'
     ELSE 'Monitor'
   END AS action_recommended
@@ -107,6 +107,7 @@ on com.content_id=tv.content_id
 join datefilter dat
 on com.content_id=dat.content_id
 where rat.number_of_user_rated>50
+
 
 
 
